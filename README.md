@@ -3,5 +3,5 @@
 <<<<<<< HEAD
 =======
 
-Auther : Dr. shri Ajay Ramkunwar
+Auther : xyz
 >>>>>>> 5ac25b6 (first commit)
